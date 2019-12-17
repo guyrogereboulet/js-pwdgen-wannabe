@@ -1,3 +1,7 @@
-var nome = prompt();
-var cognome = prompt();
-var colorePreferito = prompt();
+alert("ciao");
+var nome = prompt("Il tuo nome ?");
+console.log(nome);
+var cognome = prompt("il tuo cognome ?");
+console.log(cognome);
+var colorePreferito = prompt("Il tuo colore preferito ?");
+console.log(colorePreferito);
